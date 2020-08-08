@@ -48,9 +48,18 @@ h2{
   width: 70%;
 }
 
-.one00{
-  width: 70%;
-  margin: 0;
+.archivement-box{
+  width: 40%;
+  display: inline-block;
+  padding: 0 20px;
+}
+
+.archivement-box p{
+  width: fit-content;
+}
+
+.archivement-box img{
+  width: 100%;
 }
 
 .profile{
