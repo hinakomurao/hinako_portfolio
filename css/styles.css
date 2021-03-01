@@ -48,17 +48,17 @@ h2{
   width: 70%;
 }
 
-.archivement-box{
+.achievement-box{
   width: 40%;
   display: inline-block;
   padding: 0 20px;
 }
 
-.archivement-box p{
+.achievement-box p{
   width: fit-content;
 }
 
-.archivement-box img{
+.achievement-box img{
   width: 100%;
 }
 
@@ -79,14 +79,14 @@ h2{
   font-weight: 500;
 }
 
-.achivement{
+.achievement{
   text-align: center;
   background-color: #e9f5f1;
   padding: 130px 0 60px 0;
   color: black;
 }
 
-.achivement h2{
+.achievement h2{
   margin: 0;
   padding: 20px;
 }

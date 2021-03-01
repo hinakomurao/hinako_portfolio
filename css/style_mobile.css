@@ -65,16 +65,20 @@ h2{
   font-weight: 500;
 }
 
-.achivement{
+.achievement{
   text-align: center;
   background-color: #e9f5f1;
   padding: 90px 0 40px 0;
   color: black;
 }
 
-.achivement h2{
+.achievement h2{
   margin: 0;
   padding: 10px;
+}
+
+.achievement-box{
+  width: 80%;
 }
 
 .one00{
